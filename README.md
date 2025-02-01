@@ -9,7 +9,6 @@
 ## RankWrite-AI | Tools & Technology
 
 * <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-* <img src="https://shields.io/badge/-OpenAI-93f6ef?logo=openai" />
 * <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
 * <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black"/>
 
