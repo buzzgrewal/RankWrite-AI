@@ -26,9 +26,11 @@
 
 ## SEO Optimized Blog Post Output
 
-![Uploading 250201_19h53m07s_screenshot.png…]()
+![250201_19h53m07s_screenshot](https://github.com/user-attachments/assets/d5ac5dbe-e1db-45a1-9258-23cd6ccb0b3c)
 
-![Uploading 250201_19h53m17s_screenshot.png…]()
+![250201_19h53m17s_screenshot](https://github.com/user-attachments/assets/cd6d534d-47d6-4cb6-b492-fa20d082d4ea)
+
+
 
 
 ## SEO Optimized Keywords
