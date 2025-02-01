@@ -11,7 +11,7 @@
 * <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 * <img src="https://shields.io/badge/-OpenAI-93f6ef?logo=openai" />
 * <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-* <img src="https://www.deepseek.com/_next/image?url=https%3A%2F%2Fcdn.deepseek.com%2Flogo.png&w=828&q=75"/>
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/1280px-DeepSeek_logo.svg.png"/>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
