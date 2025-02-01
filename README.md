@@ -1,7 +1,7 @@
 # RankWrite-AI: AI-Powered Tool for Generating SEO Optimize Blog Posts
 <a name="readme-top"></a>
 ## RankWrite-AI
-<p>I recently built a Streamlit app that leverages OpenAI’s Whisper for automatic speech-to-text transcription and Deep Translator for Urdu translation. The app allows users to upload audio files (MP3, WAV, M4A), transcribes the speech with high accuracy, detects the spoken language, and provides an instant Urdu translation. This project highlights the power of AI in multilingual accessibility, making speech recognition more inclusive and useful for diverse audiences. Excited to explore more applications of NLP and speech processing in real-world scenarios! 🚀</p>
+<p>I recently built a Streamlit app called **RankWrite-AI**, an AI-powered blog post generator that creates SEO-optimized articles on any topic. The app utilizes **DeepSeek-R1-Distill-Qwen-32B** via Hugging Face’s API to generate high-quality, structured content with engaging headlines, compelling introductions, and well-optimized subheadings. Users can enter a topic, and within seconds, the app produces a well-written, publish-ready blog post, perfect for platforms like WordPress and Medium. This project showcases the power of **AI-driven content creation**, making it easier for writers, marketers, and businesses to generate impactful articles effortlessly. Excited to explore more ways AI can enhance digital content creation! 🚀</p>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -19,14 +19,21 @@
 
 ## Input Page
 
-
-![250201_00h42m36s_screenshot](https://github.com/user-attachments/assets/dbf3ce30-ce34-4085-a61b-ea7b86223767)
-
+![250201_19h52m39s_screenshot](https://github.com/user-attachments/assets/20cdc156-7ca2-4d30-9361-533dcff52970)
 
 
-## Transcribed Text and Urdu Translation
 
-![250201_00h42m19s_screenshot](https://github.com/user-attachments/assets/d3e523a3-24e5-474a-a62e-99b24344ecc7)
+
+## SEO Optimized Blog Post Output
+
+![Uploading 250201_19h53m07s_screenshot.png…]()
+
+![Uploading 250201_19h53m17s_screenshot.png…]()
+
+
+## SEO Optimized Keywords
+
+![250201_19h53m29s_screenshot](https://github.com/user-attachments/assets/8e2fa19e-13a2-45b8-b8e5-130caf76e26f)
 
 
 
