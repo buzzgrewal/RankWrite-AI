@@ -1,6 +1,5 @@
 # RankWrite-AI: AI-Powered Tool for Generating SEO Optimize Blog Posts
 <a name="readme-top"></a>
-## RankWrite-AI
 <p>I recently built a Streamlit app called RankWrite-AI, an AI-powered blog post generator that creates SEO-optimized articles on any topic. The app utilizes DeepSeek-R1-Distill-Qwen-32B via Hugging Face’s API to generate high-quality, structured content with engaging headlines, compelling introductions, and well-optimized subheadings. Users can enter a topic, and within seconds, the app produces a well-written, publish-ready blog post, perfect for platforms like WordPress and Medium. This project showcases the power of AI-driven content creation, making it easier for writers, marketers, and businesses to generate impactful articles effortlessly. Excited to explore more ways AI can enhance digital content creation! 🚀</p>
 
 
